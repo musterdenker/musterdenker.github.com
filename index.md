@@ -7,8 +7,10 @@ tagline:  blog posts and projects
 
 The Musterdenker is a german group of developers and designers.
 
-## Latest Blogpost
+***
 
+## {{ site.posts.first.title }} 
+({{ site.posts.first.description }})
 
 {{ site.posts.first.content }}
 
