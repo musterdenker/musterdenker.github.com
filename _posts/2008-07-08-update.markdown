@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Update
+wordpress_id: 7
+wordpress_url: http://www.musterdenker.de/?p=7
+date: 2008-07-08 00:46:48 +02:00
+---
+Die letzten Wochen war der Blog leider down. Der Hauptgrund dafür war ein wirklich heftiger crash unseres Servers der auch gleich alle Daten mit in den Abgrund gerissen hat. Aber wir konnten ein paar Einträge (siehe unten) retten. Wir hatten leider auf die vom Hoster angeboten Backups via Virtuozzo vertraut und mussten lernen das Virtuozzo auch nicht mehr funktioniert wenn man ALLE Daten im System löscht (inklusive der user), da die Authentifizierung über das zu verwaltende System abgewickelt wird. So blieb uns nur ein hartes Zurücksetzen. Doch das alleine würde nicht ein so langen Ausfall des Blogs rechtfertigen, so kam hinzu das alle Musterdenker ihre ganze Zeit in unser Projekt: <a title="deineschokoladen - dein Genuss" href="http://www.deineschokoladen.com" target="_blank">www.deineschokoladen.com</a> gesteckt haben.
+
+Dennoch wird von nun an hier wieder mehr (oder besser überhaupt) Leben sein.
+
+Viele Grüße
+
+PS: Man wird es kaum glauben aber einen Tag nachdem es den Server erwischt hatte ist auch noch mein Laptop kaputt gegangen, ja ei Unglück kommt selten allein.
